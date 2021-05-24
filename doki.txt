@@ -1,0 +1,14 @@
+host:
+database: b29311kt_rem
+user:
+password:71501992qQ
+
+
+данные от ПУ speceweb
+лог: culikdima2
+пор: anizwaimmi
+
+вход в админку ин.магазина
+лого: admin
+пароль: 71501992qQ
+

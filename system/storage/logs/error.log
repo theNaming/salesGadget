@@ -1,0 +1,25 @@
+2017-04-19 15:58:23 - Export/Import: Отсутствуют product_ids в файле 'Products'!
+2017-04-19 15:58:23 - Export/Import: Отсутствуют product_ids в файле 'ProductAttributes'!
+2017-04-19 16:01:01 - Export/Import: Отсутствуют product_ids в файле 'Products'!
+2017-04-19 16:01:01 - Export/Import: Отсутствуют product_ids в файле 'ProductAttributes'!
+2017-05-05 1:01:00 - PHP Notice:  Undefined variable: logo in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 9
+2017-05-05 1:01:00 - PHP Notice:  Undefined variable: telephone in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 51
+2017-05-05 1:01:00 - PHP Notice:  Undefined variable: email in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 78
+2017-05-05 1:01:00 - PHP Notice:  Undefined variable: text_information in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\header.tpl on line 89
+2017-05-05 1:01:00 - PHP Notice:  Undefined variable: informations in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\header.tpl on line 93
+2017-05-05 1:01:00 - PHP Notice:  Undefined variable: meta_title in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\product\category.tpl on line 17
+2017-05-05 1:01:11 - PHP Notice:  Undefined variable: logo in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 9
+2017-05-05 1:01:11 - PHP Notice:  Undefined variable: telephone in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 51
+2017-05-05 1:01:11 - PHP Notice:  Undefined variable: email in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 78
+2017-05-05 1:01:12 - PHP Notice:  Undefined variable: text_information in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\header.tpl on line 89
+2017-05-05 1:01:12 - PHP Notice:  Undefined variable: informations in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\header.tpl on line 93
+2017-05-05 1:02:40 - PHP Notice:  Undefined variable: logo in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 9
+2017-05-05 1:02:40 - PHP Notice:  Undefined variable: telephone in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 51
+2017-05-05 1:02:40 - PHP Notice:  Undefined variable: email in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 78
+2017-05-05 1:02:40 - PHP Notice:  Undefined variable: text_information in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\header.tpl on line 89
+2017-05-05 1:02:40 - PHP Notice:  Undefined variable: informations in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\header.tpl on line 93
+2017-05-05 1:02:47 - PHP Notice:  Undefined variable: logo in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 9
+2017-05-05 1:02:47 - PHP Notice:  Undefined variable: telephone in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 51
+2017-05-05 1:02:47 - PHP Notice:  Undefined variable: email in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\footer.tpl on line 78
+2017-05-05 1:02:47 - PHP Notice:  Undefined variable: text_information in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\header.tpl on line 89
+2017-05-05 1:02:47 - PHP Notice:  Undefined variable: informations in D:\openserver\OpenServer\domains\opencard.loc\catalog\view\theme\apple\template\common\header.tpl on line 93
